@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MicroLive</string>
+
+    <!-- 首页 -->
+    <string name="homeTitle">微  居</string>
+    <string name="score">积分</string>
+    <string name="rule">兑换规则</string>
+    <string name="goodsTitle">精品推荐</string>
+
+
+    <!-- 注册 -->
+    <string name="register">注 册</string>
+    <string name="user_name">姓名</string>
+    <string name="mobile_no">手机号码</string>
+    <string name="user_id">身份证号码</string>
+    <string name="bank_no">银行卡号</string>
+    <string name="emergency_no">应急电话</string>
+    <string name="room_no">房号</string>
+    <string name="register_success">注册成功!</string>
+    <string name="register_fail">注册失败!</string>
+
+
+    <!-- 个人中心-->
+    <string name="meTitle">我 的</string>
+
+
+    <!-- 广告招聘 -->
+    <string name="advTitle">广告招聘</string>
+    <string name="title_activity_score_exchange">ScoreExchangeActivity</string>
+    <string name="title_activity_score_send">ScoreSendActivity</string>
+    <string name="title_activity_score_detail">ScoreDetailActivity</string>
+
+
+</resources>
